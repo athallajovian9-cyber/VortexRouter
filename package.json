@@ -1,0 +1,14 @@
+{
+  "name": "vortex-router",
+  "version": "1.0.0",
+  "description": "Next-Gen Multi-Provider AI API Aggregator & 1000x Hyper-Compressor",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": ["ai-router", "api-aggregator", "token-saver", "openai", "anthropic", "groq"],
+  "author": "Athalla Jovian",
+  "license": "MIT"
+}
